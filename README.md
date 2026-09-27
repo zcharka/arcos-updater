@@ -1,7 +1,7 @@
 # arcos-updater
 
 ## EN
-This program is fork for linexin updater (https://github.com/Petexy/linexin-updater). This app is modificated for ArcOS. Works the same but reconize arcos-release and inform user to update the distribution e.g from version 1.0 to version 2.0
+This program is fork for [linexin updater](https://github.com/Petexy/linexin-updater). This app is modificated for ArcOS. Works the same but reconize arcos-release and inform user to update the distribution e.g from version 1.0 to version 2.0
 
 ### How program works:
 ArcOS Updater detect updates from:
@@ -19,7 +19,7 @@ and update them with one button. Update also version of distro, when new version
 - arcos-release
 
 ## PL
-Ten program jest wariacją programu linexin updater (https://github.com/Petexy/linexin-updater). Ta aplikacja jest modyfikowana dla ArcOS. Działa tak samo ale wykrywa arcos-release i informuje użytkownika o aktualizacji dystrybucji np. z wersji 1.0 to wersji 2.0
+Ten program jest wariacją programu [linexin updater](https://github.com/Petexy/linexin-updater). Ta aplikacja jest modyfikowana dla ArcOS. Działa tak samo ale wykrywa arcos-release i informuje użytkownika o aktualizacji dystrybucji np. z wersji 1.0 to wersji 2.0
 
 ### Jak działa program:
 ArcOS Updater wykrywa aktualizacje z:
