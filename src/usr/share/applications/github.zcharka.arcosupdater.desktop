@@ -1,9 +1,9 @@
 [Desktop Entry]
-Name=Linexin Updater
+Name=ArcOS Updater
 
-Exec=linexin-center -w a-system-updater
+Exec=arc-center -w a-system-updater
 
-Icon=/usr/share/icons/github.petexy.linexinupdater.svg
+Icon=/usr/share/icons/github.zcharka.arcosupdater.svg
 
 Terminal=false
 Type=Application
