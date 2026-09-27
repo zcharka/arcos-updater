@@ -2,7 +2,7 @@
 
 pkgname=arcos-updater
 pkgver=1.0.0
-pkgrel=2
+pkgrel=1
 pkgdesc='An updater for Arch-based distros. One button updates system packages and Flatpaks at once'
 url='https://github.com/zcharka'
 arch=('x86_64')

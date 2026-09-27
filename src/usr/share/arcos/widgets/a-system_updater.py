@@ -85,7 +85,6 @@ class ArcOSUpdaterWidget(Gtk.Box):
         self.sound_player = SoundPlayer()
         self.widgetname = "System Updater"
         self.widgeticon = "/usr/share/icons/github.zcharka.arcosupdater.svg"
-        .arcosupdater.svg"
         self.set_margin_top(12)
         self.set_margin_bottom(50)
         self.set_margin_start(12)
